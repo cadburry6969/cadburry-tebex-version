@@ -1,1 +1,1 @@
-{"version":"0.2", "notes":"For more info check discord: https://discord.gg/qxGPARNwNP"}
+{"version":"0.3", "notes":"For more info check discord: https://discord.gg/qxGPARNwNP"}
